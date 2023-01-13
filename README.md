@@ -13,10 +13,6 @@ When you enter wrong answer, then each wrong answer the chances will less one by
 ![guess_number-3](https://user-images.githubusercontent.com/74350077/212262044-8b4e8e91-c382-47d1-a989-9265cbcf5f98.png)
 
 
-![guees_number-4](https://user-images.githubusercontent.com/74350077/212262188-732b581b-f271-4f4e-b8b0-9fb0976f0986.png)
-
-
-
 And finally when you enter the correct answer the program will show "YOU GOT IT!" and it's end....
 
-
+![guees_number-4](https://user-images.githubusercontent.com/74350077/212262188-732b581b-f271-4f4e-b8b0-9fb0976f0986.png)
